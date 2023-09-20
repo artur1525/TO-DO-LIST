@@ -1,8 +1,10 @@
 # Artur Regucki - ToDoList
-## Demo
+![Artur Regucki - ToDoList img](images/todolist.PNG)
+![Artur Regucki - ToDoList img](images/todolist_2.PNG)
 
-https://raw.githubusercontent.com/artur1525/TO-DO-LIST/master/images/todolist.PNG
+"To do list" is a miniaplication, with functionality like adding new tasks, marking tasks as done or deleting tasks.
 
+https://artur1525.github.io/TO-DO-LIST/
 
 Kliknij link powyżej ;)
 ```
